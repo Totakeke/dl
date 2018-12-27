@@ -1,0 +1,19 @@
+c1_start : 0   , 0
+c1_hit   : 9   , 9
+c2_hit   : 35  , 26
+c3_hit   : 58  , 23
+c4_hit   : 94  , 36
+c5_hit   : 131 , 37
+c5_end   : 173 , 42
+
+
+fs_startup  : 19
+fs_recovery : 21
+
+perfect 3+1
+start -9
+c1_hit  0
+fs_hit  68
+fs_end  89
+total 98 frame
+
