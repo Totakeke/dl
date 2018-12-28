@@ -1,20 +1,8 @@
 c1_startup      0
 c1_hit          10
-c1_recover
-
-c2_startup
 c2_hit          33
-c2_recover
-
-c3_startup
 c3_hit          74,80
-c3_recover
-
-c4_startup
 c4_hit          117
-c4_recover
-
-c5_startup
 c5_hit          186
 c5_recover      248
 
