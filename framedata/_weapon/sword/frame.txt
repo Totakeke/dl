@@ -11,8 +11,13 @@ fs_hit   : 19 ; 19
 fs_end   : 40 ; 21
 
 perfect 3+1
-start  : 0
-c1_hit : 9
-fs_hit : 77
-fs_end : 98
+c1_start : 0
+c1_hit   : 9
+fs_hit   : 77
+fs_end   : 98
 
+
+5+1
+c1_start : 0
+fs_hit   : 172
+fs_end   : 198
